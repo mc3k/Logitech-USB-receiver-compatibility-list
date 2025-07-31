@@ -1,5 +1,5 @@
-# Logitech-USB-receiver-compatibility-list
-A list of Logitech devices and the USB receivers they are compatible with
+# Logitech USB receiver compatibility list
+A list of Logitech devices and the USB receivers they are compatible with, somehow I couldn't find a definative list so I'm starting one here. Please contribute to list listings.
 
 # Receivers
 | Model | Re-programable | Software | Unifying | Bolt | Notes |
