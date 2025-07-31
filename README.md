@@ -29,5 +29,5 @@ A list of Logitech devices and the USB receivers they are compatible with, someh
 # Keyboards
 | Name | Model | Receiver | Re-programable | Software | Unifying | Bluetooth |
 | --- | --- | --- | --- | --- | --- | --- |
-| K295 | Y-R0042 | | Yes | Connect | No | No |
+| K295 | Y-R0042 | C-U0008 | Yes | Connect | No | No |
 | K375s | Y-R0061 | C-U0007 | | Yes | Yes | Yes |
