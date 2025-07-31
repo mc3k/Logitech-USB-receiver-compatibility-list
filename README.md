@@ -13,11 +13,11 @@ A list of Logitech devices and the USB receivers they are compatible with
 # Mice
 | Name | Model | Receiver | Re-programable | Software | Unifying | Bolt | Bluetooth |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| M185 | MR0084 | | | | |
-| M185 | MR0085 | | | | |
-| M235 2nd Gen | MR0038 | C-U0007 | Yes | | Yes |
-| M330 | MR0051 | C-U0010 |
-| MX Anywhere 3 for Business | MR0083 | | 
+| M185 | MR0084 | | | | | No | No |
+| M185 | MR0085 | | | | | No | No |
+| M235 2nd Gen | MR0038 | C-U0007 | Yes | Options+ | Yes | No | No |
+| M330 | MR0051 | C-U0010 | Yes | Options+ | Yes | No | No |
+| MX Anywhere 3 for Business | MR0083 | C-U0021 | Yes | Options+ | No | Yes | Yes |
 
 # Keyboards
 | Name | Model | Receiver | Re-programable | Software | Unifying | Bluetooth |
